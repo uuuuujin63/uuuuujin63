@@ -5,6 +5,9 @@
 <a href="https://github.com/uuuuujin63" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://jainn.tistory.com/" target="_blank">
+<img src = https://img.shields.io/badge/blog?style=flat-square&logo=Bloglovin&logoColor=white&link=https://jainn.tistory.com/>
+ </a>
 <a href="https://instagram.com/uuuuujinn" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>  
