@@ -30,7 +30,7 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🔭 I’m studied Deep Learning. 
+- 🔭 I’m studied Computer Engineering. 
 - 📝 I regularly solve problems on [my blog](https://jainn.tistory.com).  
   
 
