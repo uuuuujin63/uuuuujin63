@@ -1,5 +1,5 @@
 
-## Hi There 👋  
+## Hi 👋  
   
 
 <a href="https://github.com/uuuuujin63" target="_blank">
