@@ -13,11 +13,9 @@
 </a>  
   
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjkim0122)](https://solved.ac/yjkim0122/)
 
 ### Hello, I'm Yujin Kim!
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjkim0122)](https://solved.ac/yjkim0122/)
 
 Good day!
 
