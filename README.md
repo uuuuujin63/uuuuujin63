@@ -8,9 +8,6 @@
 <a href="https://jainn.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/blog-bloglovin%20.svg?style=for-the-badge&logo=Bloglovin&logoColor=white&color=000000 alt=tistory style="margin-bottom: 5px;"/>
 </a>
-<a href="https://instagram.com/uuuuujinn" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>  
   
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjkim0122)](https://solved.ac/yjkim0122/)
