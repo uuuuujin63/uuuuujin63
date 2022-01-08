@@ -29,7 +29,7 @@ If you want to contact me, please leave me a message!
 
 - 🔭 I’m studied Computer Engineering. 
 - 📝 I regularly solve problems on [my blog](https://jainn.tistory.com).  
-- 🌱 I'm currently learning at SSAFY
+- 🌱 I was educated at the SSAFY
 
 <br/>  
 
